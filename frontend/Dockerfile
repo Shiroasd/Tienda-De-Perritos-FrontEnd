@@ -1,5 +1,5 @@
 FROM nginx:alpine
-#holaaaaa
+#holaaaaaa
 # Limpia contenido por defecto
 RUN rm -rf /usr/share/nginx/html/*
 
